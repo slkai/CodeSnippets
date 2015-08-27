@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>jjcopy</string>
+	<string>jjweak</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,copy) NSString *&lt;#string#&gt;;</string>
+	<string>@property (nonatomic,weak) &lt;#type#&gt; *&lt;#data#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C91D07DF-F29D-4A22-919E-30918352EA86</string>
+	<string>F06BE79F-B856-472E-B9E5-8CB64B1C203F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Copy</string>
+	<string>Weak</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
