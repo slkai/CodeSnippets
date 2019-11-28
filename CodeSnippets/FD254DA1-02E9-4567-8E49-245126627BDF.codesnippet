@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>jjmake</string>
+	<string>jjtodo</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[&lt;#view#&gt; mas_makeConstraints:^(MASConstraintMaker *make) {
-        &lt;#code#&gt;
-    }];</string>
+	<string>// TODO: [俊杰] &lt;#content#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E61303CD-A669-4AAC-B432-B10285D85C47</string>
+	<string>FD254DA1-02E9-4567-8E49-245126627BDF</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Masonry_Make</string>
+	<string>jjtodo</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

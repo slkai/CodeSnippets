@@ -3,31 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>jjinit</string>
+	<string>jjmark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>-(instancetype)initWithDictionary:(NSDictionary *)dict
-{
-    if (self = [super init])
-    {
-        [self setValuesForKeysWithDictionary:dict];
-    }
-    return self;
-}
-
-+(instancetype)&lt;#class#&gt;WithDictionary:(NSDictionary *)dict
-{
-    return [[self alloc] initWithDictionary:dict];
-}</string>
+	<string>// MARK: - &lt;#content#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0D476A9B-B004-4F98-9F61-16EB7986B06D</string>
+	<string>654413AE-9106-4D17-A80E-E5CB6FA6C9D6</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>字典转模型方法</string>
+	<string>jjmark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>jjupdate</string>
+	<string>jjguardself</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[&lt;#view#&gt; mas_updateConstraints:^(MASConstraintMaker *make) {
-        &lt;#code#&gt;
-    }];</string>
+	<string>guard let `self` = self else {return}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C180F90D-D935-4304-BEB4-2C4BD282DEE1</string>
+	<string>03763AAF-FAA2-497F-9628-5E1606462A8E</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Masonry_Update</string>
+	<string>guard self</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
