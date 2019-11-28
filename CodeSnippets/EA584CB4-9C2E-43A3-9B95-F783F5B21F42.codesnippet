@@ -18,7 +18,7 @@
         collectionView.delegate = self
         collectionView.dataSource = self
         collectionView.showsHorizontalScrollIndicator = false
-        collectionView.register(&lt;#$0#&gt;, forCellWithReuseIdentifier: "&lt;#$0#&gt;")</string>
+collectionView.register(&lt;#cell#&gt;, forCellWithReuseIdentifier: "&lt;#cell#&gt;")</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EA584CB4-9C2E-43A3-9B95-F783F5B21F42</string>
 	<key>IDECodeSnippetLanguage</key>
