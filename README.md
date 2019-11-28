@@ -1,8 +1,10 @@
 # CodeSnippets
-个人代码片段
+个人代码片段仓库
 
-CodeSnippets文件夹存放代码片段，shell文件用于导入代码片段到Xcode。
 
-具体使用方法：  
-1.下载zip，解压  
-2.用终端打开"导入代码片段.sh"文件即可
+
+`Local2Repo.sh`：提交本地code snippets到仓库
+
+`Repo2Local.sh`：复制仓库code snippets到本地
+
+权限问题：`chmod 777 *.sh`
